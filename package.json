@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://katement.github.io/goit-js-hw-08.git",
+  "homepage": "https://katement.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katement/parcel-project-template.git"
+    "url": "git+https://github.com/katement/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Kateryna Selyvonenko",
